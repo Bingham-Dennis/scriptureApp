@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scripture Power</string>
+    <string name="textView">Book</string>
+    <string name="textView2">Chapter</string>
+    <string name="textView3">Verse</string>
+    <string name="button">Submit Scripture</string>
+    <string name="button2">Load Scripture</string>
+</resources>
